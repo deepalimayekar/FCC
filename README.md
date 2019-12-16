@@ -1,2 +1,0 @@
-# FCC
-Created with CodeSandbox
